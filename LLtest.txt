@@ -1,5 +1,3 @@
-New changes made on Aprl 7............
-
 Cut, copy, paste, and other common shortcuts
 
           Shortcut          	Description
@@ -19,3 +17,5 @@ Command-S	Save the current document.
 Command-W	Close the front window. To close all windows of the app, press Command-Option-W.
 Command-Q	Quit the app.
 Option-Command-Esc	Force Quit: Choose an app to force quit. Or press Command-Shift-Option-Esc and hold for 3 seconds to force just the front app to quit.
+
+--------New changes made on Aprl 7............
